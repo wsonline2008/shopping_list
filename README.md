@@ -1,7 +1,7 @@
 # shopping_list
 
 Shopping List Management Procedure
-![Image text](https://github.com/wsonline2008/shopping_list.git/img/1.jpg)
+![主界面](https://github.com/wsonline2008/shopping_list/img/1.jpg)
 
 
 ## Getting Started
