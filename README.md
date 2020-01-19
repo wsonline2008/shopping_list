@@ -1,6 +1,8 @@
 # shopping_list
 
 Shopping List Management Procedure
+![Image text](https://github.com/wsonline2008/shopping_list.git/img/1.jpg)
+
 
 ## Getting Started
 
